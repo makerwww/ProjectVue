@@ -129,7 +129,7 @@ export default {
             return fetch(url)
                 .then(result => result.json())
                 .catch(error => {
-                    alert(error)
+                    return (error)
                 })
         },
     },
