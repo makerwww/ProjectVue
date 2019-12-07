@@ -1,0 +1,34 @@
+{
+    "item1": {
+        "id": "001",
+        "name": "Item1",
+        "img": "../src/assets/img/item1.png",
+        "price": "1000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, excepturi porro fuga sapiente ut quisquam labore quaerat delectus possimus tempora, maxime dignissimos optio explicabo nostrum beatae ex, sequi voluptates quibusdam.",
+        "count": "5"
+    },
+    "item2": {
+        "id": "002",
+        "name": "Item2",
+        "img": "../src/assets/img/item1.png",
+        "price": "1200",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, excepturi porro fuga sapiente ut quisquam labore quaerat delectus possimus tempora, maxime dignissimos optio explicabo nostrum beatae ex, sequi voluptates quibusdam.",
+        "count": "3"
+    },
+    "item3": {
+        "id": "003",
+        "name": "Item3",
+        "img": "../src/assets/img/item1.png",
+        "price": "1800",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, excepturi porro fuga sapiente ut quisquam labore quaerat delectus possimus tempora, maxime dignissimos optio explicabo nostrum beatae ex, sequi voluptates quibusdam.",
+        "count": "1"
+    },
+    "item4": {
+        "id": "004",
+        "name": "Item4",
+        "img": "../src/assets/img/item1.png",
+        "price": "2100",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, excepturi porro fuga sapiente ut quisquam labore quaerat delectus possimus tempora, maxime dignissimos optio explicabo nostrum beatae ex, sequi voluptates quibusdam.",
+        "count": "12"
+    }
+}
